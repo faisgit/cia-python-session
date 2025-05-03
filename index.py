@@ -15,12 +15,12 @@
 # b = int(input("Enter Second No: "))
 # print(f"{a} + {b} = {a + b}")
 
-# Write a Code which gives grade to students according to their grades
-# 90-100 --> Grade A
-# 70-89 --> Grade B
-# 60-69 --> Grade C
-# 50-59 --> Grade D 
-# 0-49 --> Grade E
+# Write a Code which gives grade to students according to their grad
+# 90-100 --> Grade
+# 70-89 --> Grade
+# 60-69 --> Grade
+# 50-59 --> Grade 
+# 0-49 --> Grade
 
 
 # print("ell world")
@@ -36,3 +36,14 @@
 print(0 == True)
 
 print(len("abc") == len("pqr"))
+
+
+# String Formating
+# a =3
+# b = 5
+# print("{} + {} = {}".format(a,b,a + b))
+
+
+name = "Abba"
+print(0)
+
