@@ -41,9 +41,5 @@ print(len("abc") == len("pqr"))
 # String Formating
 # a =3
 # b = 5
-# print("{} + {} = {}".format(a,b,a + b))
-
-
-name = "Abba"
-print(0)
+# print("{} + {} = {}".format(a,b,a + b)
 
