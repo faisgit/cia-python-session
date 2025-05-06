@@ -67,3 +67,9 @@ str = "abcd efgc ijkl"
 
 # challenge = 'thirty days of pythoonnn'
 # print(challenge.split())
+
+
+# days = ["Monday", "Tuesday", "Wednesday"]
+# print(" # ".join(days))
+
+print("abcd"[2])
