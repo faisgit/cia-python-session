@@ -33,9 +33,9 @@
 
 # print(9 == int(9.3))
 
-print(0 == True)
+# print(0 == True)
 
-print(len("abc") == len("pqr"))
+# print(len("abc") == len("pqr"))
 
 
 # String Formating
@@ -43,3 +43,14 @@ print(len("abc") == len("pqr"))
 # b = 5
 # print("{} + {} = {}".format(a,b,a + b)
 
+
+
+user = input("Enter a Character: ")
+
+if(len(user) == 1):
+    if(user == 'a' or user == 'e' or user  == "i" or user== "o" or user == "u"):
+        print(f"{user} is a vowel")
+    else:
+        print(f"{user} is a consonant")
+else:
+    print("Invalid Input")
